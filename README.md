@@ -12,6 +12,6 @@ Evil Web is a fun and quirky web app that generates an **evil twin name**, **dar
 - **Frontend:** React.js, Tailwind CSS  
 - **Backend:** Node.js, Express  
 - **AI API:** Gemini API (for generating names, personality, and plans)  
-- **Deployment:** Vercel / Netlify  
-
+- **Lvie demo:**[ Vercel / Netlify  
+](https://evilshaaz.netlify.app/)
 
